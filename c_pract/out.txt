@@ -1,0 +1,2 @@
+value of a is 10
+value of a is 10
